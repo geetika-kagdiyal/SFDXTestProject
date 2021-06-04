@@ -1,6 +1,4 @@
-//commenting
-//2nd comment
-//3rd comment
+//Hello
 public with sharing class MyClass {
 	public MyClass() {
 
