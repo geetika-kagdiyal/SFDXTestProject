@@ -1,0 +1,12 @@
+{
+  "CustomLabels__New_Custom_label": {
+    "fullName": "New_Custom_label",
+    "type": "CustomLabels",
+    "metadataFilePath": "C:\\Users\\akashsaini\\Desktop\\SFDX-Test\\SFDX-test\\force-app\\main\\default\\labels\\CustomLabels.labels-meta.xml"
+  },
+  "CustomLabels__New_Custom_label_2": {
+    "fullName": "New_Custom_label_2",
+    "type": "CustomLabels",
+    "metadataFilePath": "C:\\Users\\akashsaini\\Desktop\\SFDX-Test\\SFDX-test\\force-app\\main\\default\\labels\\CustomLabels.labels-meta.xml"
+  }
+}
