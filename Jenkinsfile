@@ -47,7 +47,7 @@ node {
 		// -------------------------------------------------------------------------
 
 		stage('Deploy and Run Tests') {
-		    rc = command "${toolbelt}/sfdx force:source:deploy -p force-app/main/default/classes --wait 10 --targetusername akashsaini3046@gmail.com --testlevel ${TEST_LEVEL}"
+		    rc = command "${toolbelt}/sfdx force:source:deploy -p force-app/main/default/classes --wait 10 --targetusername gkagdiyaldev1@nagarro.com --testlevel ${TEST_LEVEL}"
 		    if (rc != 0) {
 			error 'Salesforce deploy and test run failed.'
 		    }
